@@ -1,0 +1,10 @@
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\bin\Debug\Activity5.exe.config
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\bin\Debug\Activity5.exe
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\bin\Debug\Activity5.pdb
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\bin\Debug\Activity5.xml
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\obj\Debug\Activity5.Form1.resources
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\obj\Debug\Activity5.Resources.resources
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\obj\Debug\Activity5.vbproj.GenerateResource.Cache
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\obj\Debug\Activity5.exe
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\obj\Debug\Activity5.xml
+d:\os_files\documents\visual studio 2013\Projects\Activity5\Activity5\obj\Debug\Activity5.pdb
